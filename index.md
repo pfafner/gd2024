@@ -2,7 +2,7 @@
 
 Site under construction
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Achtung.svg/1200px-Achtung.svg.png" width="80"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Achtung.svg/1200px-Achtung.svg.png" width="60"/>
 
 Este es un curso introductorio de geometría diferencial. El tema central del curso es el estudio de la geometría de curvas y superfícies, así como una breve inicio al estudio de la geometría Riemmanniana. Al final del curso, los estudiantes comprederán completamente, la teoría de las curvas y superfícies, y el desarrollo de la geometría diferencial hasta la mitad el siglo XIX. Introduciremos también algunos conceptos de la geometría de variedades diferenciables y un poco de cálculo sobre variedades. Si el tiempo lo permite, al final del curso se hará una aplicación de cómo la geometría diferencial se utiliza en la teoría de relatividad general. 
 
