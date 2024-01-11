@@ -23,9 +23,9 @@ Para aprovechar de mejor manera el curso, es recomendable que los estudiantes es
 # Material del curso
 <div id='id-material'/>
 
-  **No.**  | **Fecha**    | **Tópicos**                                                                    | **Recursos**
-  -------- | ------------ | ------------------------------------------------------------------------------ |  -------------------------------------
-  01       | 09.01.2024   | 
+  **No.**  | **Fecha**    | **Tópicos**                                                          | **Recursos**
+  -------- | ------------ | -------------------------------------------------------------------- |  -------------------------------------
+  01       | 09.01.2024   | Introducción. Historia de la Geometría Diferencial. [Aula 01](aulas/Aula01.pdf){:target="_blank"} |
 
   
 # Seminarios
