@@ -26,7 +26,7 @@ Para aprovechar de mejor manera el curso, es recomendable que los estudiantes es
   **No.**  | **Fecha**    | **Tópicos**                                                          | **Recursos**
   -------- | ------------ | -------------------------------------------------------------------- |  -------------------------------------
   01       | 09.01.2024   | Introducción. Historia de la Geometría Diferencial. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | [(D. J. Struik) Outline of History of Differential Geometry I](lectures/struik1933_I.pdf){:target="_blank"} <br/> [(D. J. Struik) Outline of History of Differential Geometry II](lectures/struik1933_II.pdf){:target="_blank"}
-  02       | 11.01.2024   | Curvas parametrizadas.      | 
+  02       | 11.01.2024   | Curvas parametrizadas. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | Do Carmo, sección 1.2. <br/> Kühnel, sección 2A, pp. 7–11. 
 
   
 # Seminarios
