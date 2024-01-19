@@ -28,6 +28,7 @@ Para aprovechar de mejor manera el curso, es recomendable que los estudiantes es
   01       | 09.01.2024   | Introducción. Historia de la Geometría Diferencial. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | [(D. J. Struik) Outline of History of Differential Geometry I](lectures/struik1933_I.pdf){:target="_blank"} <br/> [(D. J. Struik) Outline of History of Differential Geometry II](lectures/struik1933_II.pdf){:target="_blank"}
   02       | 11.01.2024   | Curvas parametrizadas. <br/> [Aula 02](aulas/Aula02.pdf){:target="_blank"} | Do Carmo, sección 1.2. <br/> Kühnel, sección 2A, pp. 7–11. 
   03       | 16.01.2024   | Parametrización por Longitud de Arco. <br/> [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Do Carmo, sección 1.3. <br/> Kühnel, sección 2A, pp. 7–11. 
+  04       | 18.01.2024   | Teoría local de curvas en R^2 y en R^3. <br/> [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Do Carmo, sección 1.5. <br/> Kühnel, sección 2B. 
 
   
 # Seminarios
