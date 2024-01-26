@@ -30,7 +30,7 @@ Para aprovechar de mejor manera el curso, es recomendable que los estudiantes es
 03       | 16.01.2024   | Parametrización por Longitud de Arco. <br/> [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Do Carmo, sección 1.3. <br/> Kühnel, sección 2A, pp. 7–11. 
 04       | 18.01.2024   | Teoría local de curvas. Curvatura en R^2 y en R^3. [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Do Carmo, sección 1.5. Kühnel, sección 2B. <br/> [Curva toroidal](code/toroidal_curve.ggb){:target="_blank"} 
 05       | 23.01.2024   | Forma canónica local. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | Do Carmo, sección 1.6. <br/> Kühnel, secciones 2C y 2D.
-06       | 25.01.2024   | Transformaciones rígidas. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | Para leer sobre el Teorema Fundamental de las EDO: Cap 8.[{(W. Kelley, A. Peterson) The Theory of EDO]([aulas/Aula05.pdf](http://library.lol/main/6CC3B361D2F1430322DE2E6379262779)){:target="_blank"}
+06       | 25.01.2024   | Transformaciones rígidas. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | Para leer sobre el Teorema Fundamental de las EDO: Cap 8. [{(W. Kelley, A. Peterson) The Theory of EDO]([aulas/Aula05.pdf](http://library.lol/main/6CC3B361D2F1430322DE2E6379262779)){:target="_blank"}
 L1       | 25.01.2024   |  | [Lista 01](listas/lista01.pdf){:target="_blank"} <br/> **Fecha de entrega: Jueves 08 de febrero.** 
 
 
