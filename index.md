@@ -33,8 +33,8 @@ Para aprovechar de mejor manera el curso, es recomendable que los estudiantes es
 06       | 25.01.2024   | Transformaciones rígidas. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | Para leer sobre el Teorema Fundamental de las EDO: Cap 8. [{(W. Kelley, A. Peterson) The Theory of EDO]([aulas/Aula05.pdf](http://library.lol/main/6CC3B361D2F1430322DE2E6379262779)){:target="_blank"}
 L1       | 25.01.2024   |  | [Lista 01](listas/lista01.pdf){:target="_blank"} <br/> **Fecha de entrega: Jueves 08 de febrero.** 
 07       | 30.01.2024   | El Teorema Fundamental de la teoría local de Curvas. [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Do Carmo, sección 1.6. <br/> Kühnel, sección 2D, pp. 28–32.
-08       | 01.02.2024   | Propiedades globales de curvas planas. La desigualdad Isoperimétrica. [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Do Carmo, sección 1.6. <br/> Kühnel, sección 2D, pp. 28–32.
-09       | 06.02.2024   | El Teorema de los 4 vértices. Teorema de Fabricius-Bjerre. [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Do Carmo, sección 1.6. <br/> Kühnel, sección 2D, pp. 28–32.
+08       | 01.02.2024   | Propiedades globales de curvas planas. La desigualdad Isoperimétrica. [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Do Carmo, sección 1.7. <br/> Kühnel, sección 2F. 
+09       | 06.02.2024   | Índice de rotación. Curvas convexas. El Teorema de los 4 vértices. [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Kühnel, sección 2F. 
 
 
 # Seminarios
