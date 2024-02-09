@@ -35,7 +35,7 @@ L1       | 25.01.2024   |  | [Lista 01](listas/lista01.pdf){:target="_blank"} <b
 07       | 30.01.2024   | El Teorema Fundamental de la teoría local de Curvas. [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Do Carmo, sección 1.6. <br/> Kühnel, sección 2D, pp. 28–32.
 08       | 01.02.2024   | Propiedades globales de curvas planas. La desigualdad Isoperimétrica. [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Do Carmo, sección 1.7. <br/> Kühnel, sección 2F. 
 09       | 06.02.2024   | Índice de rotación. Curvas convexas. El Teorema de los 4 vértices. [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Kühnel, sección 2F. 
-10       | 08.02.2024   | Fórmula de Cauchy-Crofton. [Aula 10](aulas/Aula10.pdf){:target="_blank"} |  
+10       | 08.02.2024   | La Fórmula de Cauchy-Crofton. [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Do Carmo, sección 1.7. 
 
 
 # Seminarios
