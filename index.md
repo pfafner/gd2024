@@ -37,6 +37,8 @@ L1       | 25.01.2024   |  | [Lista 01](listas/lista01.pdf){:target="_blank"} <b
 09       | 06.02.2024   | Índice de rotación. Curvas convexas. El Teorema de los 4 vértices. [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Kühnel, sección 2F. 
 10       | 08.02.2024   | La Fórmula de Cauchy-Crofton. [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Do Carmo, sección 1.7. 
 11       |   |   | 
+L2       | 15.02.2024   |  | [Lista 02](listas/lista02.pdf){:target="_blank"} <br/> **Fecha de entrega: Jueves 29 de febrero.** 
+
 
 # Seminarios
 <div id='id-proj'/>
