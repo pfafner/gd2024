@@ -36,7 +36,7 @@ L1       | 25.01.2024   |  | [Lista 01](listas/lista01.pdf){:target="_blank"} <b
 08       | 01.02.2024   | Propiedades globales de curvas planas. La desigualdad Isoperimétrica. [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Do Carmo, sección 1.7. <br/> Kühnel, sección 2F. 
 09       | 06.02.2024   | Índice de rotación. Curvas convexas. El Teorema de los 4 vértices. [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Kühnel, sección 2F. 
 10       | 08.02.2024   | La Fórmula de Cauchy-Crofton. [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Do Carmo, sección 1.7. 
-11       |   |   | 
+11       | 13.02.2024   | Curvas en espacios de Minkowski. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"} | 
 L2       | 15.02.2024   |  | [Lista 02](listas/lista02.pdf){:target="_blank"} <br/> **Fecha de entrega: Jueves 29 de febrero.** 
 
 
