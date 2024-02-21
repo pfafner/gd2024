@@ -38,6 +38,7 @@ L1       | 25.01.2024   |  | [Lista 01](listas/lista01.pdf){:target="_blank"} <b
 10       | 08.02.2024   | La Fórmula de Cauchy-Crofton. [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Do Carmo, sección 1.7. 
 11       | 13.02.2024   | Curvas en espacios de Minkowski. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Kühnel, sección 2E, pp. 33–37.
 L2       | 15.02.2024   |  | [Lista 02](listas/lista02.pdf){:target="_blank"} <br/> **Fecha de entrega: Jueves 29 de febrero.** 
+12       | 20.02.2024   | Superficies Regulares. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | 
 
 
 # Seminarios
