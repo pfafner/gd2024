@@ -39,7 +39,7 @@ L1       | 25.01.2024   |  | [Lista 01](listas/lista01.pdf){:target="_blank"} <b
 11       | 13.02.2024   | Curvas en espacios de Minkowski. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Kühnel, sección 2E, pp. 33–37.
 L2       | 15.02.2024   |  | [Lista 02](listas/lista02.pdf){:target="_blank"} <br/> **Fecha de entrega: Jueves 29 de febrero.** 
 12       | 20.02.2024   | Superficies Regulares. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Do Carmo, sección 2.2. 
-13       | 22.02.2024   | Ejemplos de superficies Regulares. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Do Carmo, sección 2.2. 
+13       | 22.02.2024   | Ejemplos de superficies regulares. Forma local de las superficies regulares. [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Do Carmo, sección 2.2. 
 
 
 # Seminarios
