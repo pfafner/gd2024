@@ -41,7 +41,8 @@ L2       | 15.02.2024   |  | [Lista 02](listas/lista02.pdf){:target="_blank"} <b
 12       | 20.02.2024   | Superficies Regulares. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Do Carmo, sección 2.2. 
 13       | 22.02.2024   | Ejemplos de superficies regulares. Forma local de las superficies regulares. [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Do Carmo, sección 2.2. 
 14       |    |  | Do Carmo, sección 2.3. 
-
+15       |    |  | Do Carmo, sección 2.3. 
+L3       | 29.02.2024   |  | [Lista 03](listas/lista03.pdf){:target="_blank"} <br/> **Fecha de entrega: Jueves 13 de marzo.** 
 
 
 # Seminarios
