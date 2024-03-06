@@ -40,7 +40,7 @@ L1       | 25.01.2024   |  | [Lista 01](listas/lista01.pdf){:target="_blank"} <b
 L2       | 15.02.2024   |  | [Lista 02](listas/lista02.pdf){:target="_blank"} <br/> **Fecha de entrega: Jueves 29 de febrero.** 
 12       | 20.02.2024   | Superficies Regulares. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Do Carmo, sección 2.2. 
 13       | 22.02.2024   | Ejemplos de superficies regulares. Forma local de las superficies regulares. [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Do Carmo, sección 2.2. 
-14       |    |  | Do Carmo, sección 2.3. 
+14       | 29.02.2024   | Valores Regulares. Superficies a partir de valores regulares. [Aula 14](aulas/Aula14.pdf){:target="_blank"} | Do Carmo, sección 2.3. 
 15       |    |  | Do Carmo, sección 2.3. 
 L3       | 29.02.2024   |  | [Lista 03](listas/lista03.pdf){:target="_blank"} <br/> **Fecha de entrega: Martes 18 de marzo.** 
 
