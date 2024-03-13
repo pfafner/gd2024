@@ -43,6 +43,8 @@ L2       | 15.02.2024   |  | [Lista 02](listas/lista02.pdf){:target="_blank"} <b
 14       | 29.02.2024   | Valores Regulares. Superficies a partir de valores regulares. [Aula 14](aulas/Aula14.pdf){:target="_blank"} | Do Carmo, sección 2.2. 
 L3       | 29.02.2024   |  | [Lista 03](listas/lista03.pdf){:target="_blank"} <br/> **Fecha de entrega: Martes 18 de marzo.** 
 15       | 05.03.2024   | Funciones Diferenciables sobre Superficies. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} | Do Carmo, sección 2.3. 
+16       | 07.03.2024   | El Plano Tangente. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} | Do Carmo, sección 2.3. 
+17       | 12.03.2024   | Orientabilidad de Superficies. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} | Do Carmo, sección 2.3. 
 
 
 # Seminarios
