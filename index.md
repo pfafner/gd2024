@@ -45,6 +45,7 @@ L3       | 29.02.2024   |  | [Lista 03](listas/lista03.pdf){:target="_blank"} <b
 15       | 05.03.2024   | Funciones Diferenciables sobre Superficies. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} | Do Carmo, sección 2.3. 
 16       | 07.03.2024   | El Plano Tangente. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} | Do Carmo, sección 2.4. En el libro de Do Carmo de variedades, se habla un poco sobre el fibrado tangente.
 17       | 12.03.2024   | Orientabilidad de Superficies. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} | Kühnel, sección 3A, pp. 63–65. <br/> Do Carmo, sección 2.6. 
+18       | 14.03.2024   | Orientabilidad de Superficies II. Ejemplo de una superficie no orientable. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"} | Kühnel, sección 3A, pp. 63–65. <br/> Do Carmo, sección 2.6. 
 
 
 # Seminarios
