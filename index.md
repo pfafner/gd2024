@@ -48,6 +48,7 @@ L3       | 29.02.2024   |  | [Lista 03](listas/lista03.pdf){:target="_blank"} <b
 18       | 14.03.2024   | Orientabilidad de Superficies II. Ejemplo de una superficie no orientable. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"} | Do Carmo, sección 2.6. <br/> En Do Carmo se usa otro modelo para la banda de Möbius. 
 19       | 19.03.2024   | Primera forma fundamental. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Kühnel, sección 3A. <br/> Do Carmo, sección 2.5. 
 L4       | 21.03.2024   |  | [Lista 04](listas/lista04.pdf){:target="_blank"} <br/> **Fecha de entrega: Jueves 11 de abril.** 
+20       |   |   |  
 
 
 # Seminarios
